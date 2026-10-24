@@ -1,0 +1,11 @@
+{
+  "name": "VibeGram - Next-Gen Social Media & Creator Platform",
+  "description": "VibeGram is a next-generation Android social platform featuring reels, photo/video feeds, real-time messaging, stories, creator studio, monetization, and admin controls.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
